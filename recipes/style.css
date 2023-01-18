@@ -1,0 +1,58 @@
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin: 10 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul, ol {
+    margin: 20px;
+    padding: 20px;
+    letter-spacing: 1px;
+    line-height: 2;
+}
+
+.custom1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.custom2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.custom3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.key, .b1{
+    color: orange;
+    background-color: black;
+    text-align: center;
+}
+
+.key2, .b2 {
+    color: green;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.key3, .b3{
+    color: pink;
+    background-color: brown;
+    text-align: center;
+
+}
+
+
+
